@@ -1,4 +1,4 @@
-# Stock-Market-Analysis
+# Stock Market Analysis and Prediction
 
 3rd Year Mini Project
 
